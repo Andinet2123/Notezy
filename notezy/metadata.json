@@ -1,0 +1,6 @@
+{
+  "name": "Notezy",
+  "description": "An iPhone-inspired Notes app with smooth drawing, checklists, voice memos, folder organization, pin protection, and instant search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
