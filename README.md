@@ -9,7 +9,7 @@ Notezy is a mobile notes application designed to make capturing, finding, and ma
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/home.png" width="260" alt="Notezy home screen showing the notes list, search, and locked notes" />
+  <img src="assets/screenshots/assets/screenshots/photo_5_2026-11-03_02-17-43.jpg" width="260" alt="Notezy home screen showing the notes list, search, and locked notes" />
   &nbsp;&nbsp;&nbsp;
   <img src="assets/screenshots/home.png" width="260" alt="Notezy home screen showing the notes list, search, and locked notes" />
   &nbsp;&nbsp;&nbsp;
