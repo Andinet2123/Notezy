@@ -11,6 +11,14 @@ Notezy is a mobile notes application designed to make capturing, finding, and ma
 <p align="center">
   <img src="assets/screenshots/home.png" width="260" alt="Notezy home screen showing the notes list, search, and locked notes" />
   &nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/home.png" width="260" alt="Notezy home screen showing the notes list, search, and locked notes" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/home.png" width="260" alt="Notezy home screen showing the notes list, search, and locked notes" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/home.png" width="260" alt="Notezy home screen showing the notes list, search, and locked notes" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/home.png" width="260" alt="Notezy home screen showing the notes list, search, and locked notes" />
+  &nbsp;&nbsp;&nbsp;
   <img src="assets/screenshots/editor.png" width="260" alt="Notezy note editor screen" />
 </p>
 
