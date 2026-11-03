@@ -1,103 +1,59 @@
 # 📝 Notezy
 
-### Capture your thoughts. Keep everything organized.
+### Your thoughts, organized in one place.
 
-Notezy is a modern, minimal, and user-friendly mobile notes application designed to make writing and managing notes simple. Create notes, edit your ideas, and keep everything organized with a smooth writing experience and automatic saving.
+Notezy is a mobile notes application designed to make capturing, finding, and managing everyday notes simple. It combines a clean writing experience with note organization and privacy-focused features.
 
 ---
 
-## 📱 App Screenshots
+## 📱 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/home.png" width="250" alt="Notezy Home Screen"/>
-  &nbsp;&nbsp;
-  <img src="assets/screenshots/editor.png" width="250" alt="Notezy Note Editor"/>
+  <img src="assets/screenshots/home.png" width="260" alt="Notezy home screen showing the notes list, search, and locked notes" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/editor.png" width="260" alt="Notezy note editor screen" />
 </p>
 
 <p align="center">
-  <em>Home Screen &nbsp; • &nbsp; Note Editor</em>
+  <sub>Notes home screen · Note editor</sub>
 </p>
 
 ---
 
 ## ✨ Features
 
-- 📝 **Create Notes** – Quickly write down your thoughts and ideas.
-- ✏️ **Edit Notes** – Update your notes whenever you need.
-- 💾 **Automatic Saving** – Save your writing automatically.
-- 📂 **Organize Notes** – Keep your notes accessible and organized.
-- 🎨 **Clean Interface** – Enjoy a simple and modern design.
-- ⚡ **Smooth Experience** – Navigate and write with smooth interactions.
+- **Create and edit notes** — capture ideas and update them whenever needed.
+- **Search notes** — find notes using the search field.
+- **Locked notes** — protect private notes with a passcode.
+- **Pin and share controls** — access note actions from the editor.
+- **Checklist and formatting tools** — use the editor toolbar to work with your notes.
+- **Theme customization** — access the color palette from the editor.
+- **Organized note cards** — scan note titles and previews from the home screen.
 
 ---
 
-## 🎨 Design Philosophy
+## 🎨 Interface
 
-Notezy follows a minimal and modern design approach focused on readability, simplicity, and usability.
-
-| Color | Hex |
-|---|---|
-| Spring Green | `#02F5A1` |
-| Deep Onyx | `#07191E` |
+Notezy uses a dark notes-list screen with warm, light-colored note cards and an orange accent. The editor uses a calm light background to keep the writing area clear and readable.
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology
 
-> Add the actual technologies and frameworks used in this project.
-
-- **Frontend:** [Your framework]
-- **Language:** [Your programming language]
-- **Storage:** [Your storage solution]
-- **Tools:** Git & GitHub
+Technology and framework details will be added here once the project's current dependencies and setup are confirmed.
 
 ---
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+Clone the repository:
 
 ```bash
 git clone https://github.com/Andinet2123/Notezy.git
-```
-
-### 2. Open the project
-
-```bash
 cd Notezy
 ```
 
-### 3. Install dependencies and run
-
-Follow the installation instructions for the framework used in this project.
-
----
-
-## 📁 Project Structure
-
-```text
-Notezy/
-│
-├── assets/
-│   └── screenshots/
-│       ├── home.png
-│       └── editor.png
-│
-├── notezy/
-│   └── [Application source code]
-│
-└── README.md
-```
-
----
-
-## 🗺️ Future Improvements
-
-- [ ] Search notes
-- [ ] Note categories and tags
-- [ ] Dark and light themes
-- [ ] Cloud synchronization
-- [ ] Note sharing and export
+Install dependencies and run the application using the instructions for the framework configured in this repository.
 
 ---
 
@@ -105,22 +61,10 @@ Notezy/
 
 **Andinet Yohannes**
 
-Information Technology Student | Software Developer
-
-- GitHub: [@Andinet2123](https://github.com/Andinet2123)
-
----
-
-## 📄 License
-
-This project is available for educational and personal development purposes. Add a license file if you intend to distribute it under a specific open-source license.
+[GitHub: @Andinet2123](https://github.com/Andinet2123)
 
 ---
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/Andinet2123">Andinet Yohannes</a>
-</p>
-
-<p align="center">
-  ⭐ If you like Notezy, consider giving this repository a star!
 </p>
